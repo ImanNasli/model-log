@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Jahondust\ModelLog\Policies;
+namespace Imannasli\ModelLog\Policies;
 
 
 use App\Models\User;
-use Jahondust\ModelLog\Models\ModelLog;
+use Imannasli\ModelLog\Models\ModelLog;
 
 class ModelLogPolicy
 {

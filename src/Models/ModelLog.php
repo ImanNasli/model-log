@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Jahondust\ModelLog\Models;
+namespace Imannasli\ModelLog\Models;
 
 use App\User;
 use Illuminate\Database\Eloquent\Model;

@@ -1,5 +1,5 @@
 {
-    "name": "model-log",
+    "name": "enhanced-model-log",
     "description": "Voyager Model Log",
     "type": "library",
     "tags": [
@@ -13,18 +13,18 @@
     },
     "license": "MIT",
     "authors": [{
-        "name": "Jahongir Dustqulov",
-        "email": "jahondust@gmail.com"
+        "name": "Iman Nasli",
+        "email": "iman.nasli5@gmail.com"
     }],
     "autoload": {
         "psr-4": {
-            "Jahondust\\ModelLog\\": "src/"
+            "Imannasli\\ModelLog\\": "src/"
         }
     },
     "extra": {
         "hook": {
             "providers": [
-                "Jahondust\\ModelLog\\ModelLogServiceProvider"
+                "Imannasli\\ModelLog\\ModelLogServiceProvider"
             ]
         }
     },
